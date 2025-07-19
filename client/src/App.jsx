@@ -22,7 +22,6 @@ const App = () => {
         <Route path="/my-appointment" element={<MyAppointments />} />
         <Route path="/appointment" element={<Appointment />} />
       </Routes>
-      welcome to morder connect
     </div>
   );
 };
